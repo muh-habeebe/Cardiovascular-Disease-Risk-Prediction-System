@@ -41,7 +41,7 @@ export default function Header({ setUser, user }) {
             <div className="flex flex-col leading-tight truncate">
               <h1
                 className="
-                  text-sm xs:text-base sm:text-lg md:text-xl 
+                  text-sm xs:text-base sm:text-lg md:text-2xl
                   font-semibold 
                   text-neutral-900 dark:text-white 
                   tracking-tight truncate
